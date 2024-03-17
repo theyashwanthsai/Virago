@@ -1,0 +1,26 @@
+[
+    {
+        "text": "This is the first post",
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbesindia.com%2Fblog%2Ffinance%2Fhow-women-can-take-financial-control%2F&psig=AOvVaw2fFQ_NzsjbHL42HmGor0pH&ust=1710639484016000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjF5ejS94QDFQAAAAAdAAAAABAE",
+        "datePosted": "2024-03-15T12:00:00Z",
+        "opUsername": "user1"
+    },
+    {
+        "text": "This is the second post",
+        "imageUrl": "https://example.com/image1.jpg",
+        "datePosted": "2024-03-15T12:00:00Z",
+        "opUsername": "sai"
+    },
+    {
+        "text": "Hello from frontend",
+        "imageUrl": "httpe.com",
+        "datePosted": "2024-03-15T22:46:30.925Z",
+        "opUsername": "SampleUser"
+    },
+    {
+        "text": "wss",
+        "imageUrl": "ssss",
+        "datePosted": "2024-03-15T22:57:55.763Z",
+        "opUsername": "abaabbaa"
+    }
+]

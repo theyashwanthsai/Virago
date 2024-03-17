@@ -1,0 +1,20 @@
+{
+  "name": "virago-backend",
+  "version": "1.0.0",
+  "description": "kalpana hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "the wicked crew",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "hnswlib-node": "^1.4.2",
+    "jsonwebtoken": "^9.0.2",
+    "langchain": "^0.0.48",
+    "mongodb": "^6.5.0",
+    "mysql": "^2.18.1",
+    "newsapi": "^2.4.1"
+  }
+}

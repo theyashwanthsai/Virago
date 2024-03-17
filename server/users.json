@@ -1,0 +1,32 @@
+[
+    {
+        "username": "sai",
+        "password": "123",
+        "location": "Bangalore"
+    },
+    {
+        "username": "abc",
+        "password": "123",
+        "location": "Bangalore"
+    },
+    {
+        "username": "new",
+        "password": "abc",
+        "location": "India"
+    },
+    {
+        "username": "new1",
+        "password": "abc",
+        "location": "India"
+    },
+    {
+        "username": "abss",
+        "password": "abcc",
+        "location": "India"
+    },
+    {
+        "username": "abaabbaa",
+        "password": "abc",
+        "location": "India"
+    }
+]
