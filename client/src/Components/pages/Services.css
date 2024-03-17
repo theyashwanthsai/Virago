@@ -1,0 +1,61 @@
+/* CSS for styling */
+.services-container {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.articles-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.half-container {
+    width: 48%; /* Each half takes up 48% to account for margins */
+}
+
+.article {
+    width: 100%; /* Each article takes up full width */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    transition: transform 0.3s ease-in-out;
+}
+
+.article:hover {
+    transform: translateY(-5px);
+}
+
+.section-title {
+    margin-top: 0;
+    color: #333;
+}
+
+.article-title {
+    margin-top: 0;
+    color: #333;
+}
+
+.article-author {
+    color: #666;
+}
+
+.article-description {
+    color: #444;
+}
+
+.article-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.article-link:hover {
+    text-decoration: underline;
+}
+
+.article-divider {
+    margin-top: 10px;
+    margin-bottom: 0;
+}

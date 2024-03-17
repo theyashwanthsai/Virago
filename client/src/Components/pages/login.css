@@ -1,0 +1,43 @@
+.login-container {
+    margin: 0 auto;
+    margin-top: 150px;
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    margin-bottom: 25px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type='text'],
+input[type='password'] {
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    align-self: flex-start; /* Align button to start of container */
+}
+
+button:hover {
+    background-color: #0056b3;
+}
